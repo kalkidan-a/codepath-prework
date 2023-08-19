@@ -28,15 +28,17 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 Favorite applications:
-Whatsapp:
+1. Whatsapp:
 - Message encryption
 - Can reply to indiviual messages
 - Adding status updates
-Snackpass:
+
+2. Snackpass:
 - Contact support within app
 - Create orders with freinds for discounts
 - Remembers users' favorite restaurants and orders
-Fizz:
+
+3. Fizz:
 - Can DM users while maintaining anonymity
 - Posts are categorized 
 - Has poll functionality
